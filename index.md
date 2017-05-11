@@ -5,4 +5,4 @@ I build visualizations and apps using Qlik View and Qlik Sense. A sample of my w
 
 
 ### My LinkedIn Profile
-https://www.linkedin.com/in/rashmi-deshpande-dasnurkar-5a325a139/
+[LinkedIn](https://www.linkedin.com/in/rashmi-deshpande-dasnurkar-5a325a139/)
