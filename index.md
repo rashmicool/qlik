@@ -2,7 +2,7 @@
 
 I build visualizations and apps using Qlik View and Qlik Sense. A sample of my work can be found here 
 
-http://rashmicool.github.io/qlik/Portfolio_v1.pdf
+https://rashmicool.github.io/qlik/Portfolio_v1.pdf
 
 
 ### My LinkedIn Profile
