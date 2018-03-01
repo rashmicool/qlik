@@ -2,9 +2,9 @@
 
 I build visualizations and apps various tools and platforms including Qlik View, Sense and Power BI. 
 A sample of my work in 
-[Qlik](https://rashmicool.github.io/qlik/Portfolio_QlikV2.pdf) and 
+[QlikView/Sense](https://rashmicool.github.io/qlik/Portfolio_QlikV2.pdf) and 
 [PowerBI](https://rashmicool.github.io/qlik/Portfolio_PowerBI.pdf) and 
-[Qlik](https://rashmicool.github.io/qlik/PimaDiabetesPPT.ppt)
+[QlikSense](https://rashmicool.github.io/qlik/PimaDiabetesPPT.ppt)
 
 
 ### My LinkedIn Profile
