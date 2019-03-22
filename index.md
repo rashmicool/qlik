@@ -11,4 +11,4 @@ A sample of my work in
 [LinkedIn](https://www.linkedin.com/in/rashmi-deshpande-5a325a139/)
 
 # My Pancreas
-<iframe src="https://raps.azurewebsites.net/" height="500" width="800"></iframe> 
+<iframe src="https://raps.azurewebsites.net/" height="500" width="500"></iframe> 
