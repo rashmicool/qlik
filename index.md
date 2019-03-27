@@ -13,4 +13,4 @@ A sample of my work in
 ### My Pancreas
 My nightscout website that displays my blood sugars in near-real time.
 <iframe src="https://raps.azurewebsites.net/" height="500" width="800"></iframe>
-<embed data="https://rashdexcgm.herokuapp.com/" height="500" width="800 type="text/html"></embed>
+<embed src="https://rashdexcgm.herokuapp.com/" height="500" width="800></embed>
